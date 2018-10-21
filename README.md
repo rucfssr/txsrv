@@ -1,14 +1,14 @@
 ## Tx service
 
-###Run
+### Run
 
 mvn spring-boot:run
 
-###Test
+### Test
 
 mvn test
 
-###Swagger UI
+### Swagger UI
 
  - http://localhost:8080/swagger-ui.html
 
